@@ -6,7 +6,8 @@ Number standardization by dividing certain columns with 10,000 to make decise va
 Replacement of NULL values into 0 in certain columns. 
 Make new column for date to change data-type and date format.
 
-
+More detailed analysis on tables and columns in the following link:
+https://docs.google.com/document/d/1h-_69UhmaawlN82t0feKq0sk1SgZx02NAvGZdfzOCg4/edit?usp=sharing
 
 Queries:
 Below, provide the SQL queries you used to clean your data.

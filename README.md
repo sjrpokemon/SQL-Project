@@ -32,3 +32,4 @@ Additionally, when creating the tables, it was hard to match the data-type for w
 If I had more time and resources, I would consider doing a more meaningful analysis on the correlation of pagepathlevels depending on which city and country access on which product page.
 
 
+(ChatGPT, personal communication, February 11, 2023).
